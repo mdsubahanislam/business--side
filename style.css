@@ -1,0 +1,44 @@
+body{
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Mono', monospace;
+margin: 0;
+padding: 0;
+background:#F1E4FF;
+}
+.button{
+    color: whitesmoke;
+    background-color: tomato;
+    border-radius: 32%;
+    padding: 12px 22px;
+    width: 35%;
+    margin-top:10px;
+    text-decoration: none;
+    cursor:zoom-out;
+  
+}
+.star-icon{
+    color: orange;
+}
+.single-img{
+    height: 300px;
+}
+.form{
+    border: 2px solid lightcyan;
+}
+.footer{
+    background-color: black;
+}
+.footer h1{
+    color: whitesmoke;
+    margin: 0;
+    font-size: 28px;
+}
+.footer p{
+    color: white;
+    margin: 0;
+    font-size: .7rem;
+}
+.icon{
+    color: white;
+}
